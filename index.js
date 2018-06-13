@@ -1,1 +1,1 @@
-console.Log("Crown2.0 !!")
+console.log("Crown2.0 !!")
